@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SuperCalc</string>
+    <string name="oggetto">Oggetto</string>
+    <string name="email">Email</string>
+    <string name="scrivi_mail">Scrivi mail</string>
+    <string name="invia">Invia</string>
+    <string name="risultato">Risultato</string>
+    <string name="supercalc">SuperCalc</string>
+    <string name="squared">
+        <![CDATA[ x&lt;sup&gt;2&lt;/sup&gt ]]>
+    </string>
+</resources>
